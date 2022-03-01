@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A well-resolved man; or, Good resolutions, &amp; good endeavo[ur]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06506</idno>
+            <idno type="STC">Wing W1282C</idno>
+            <idno type="STC">ESTC R186356</idno>
+            <idno type="EEBO-CITATION">52529087</idno>
+            <idno type="OCLC">ocm 52529087</idno>
+            <idno type="VID">179234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179234)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2781:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A well-resolved man; or, Good resolutions, &amp; good endeavo[ur]</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>16--]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Part of final word of title missing.</note>
+                  <note>Missing part of title supplied from internal evidence.</note>
+                  <note>Range of dates of printing from internal evidence.</note>
+                  <note>P. 4 misnumbered "5".</note>
+                  <note>Imperfect: first leaf mutilated with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXXV, 9-10 --  Criticism, interpretation, etc. --  17th century.</term>
+               <term>Christian life --  Sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179234:1"/>
+            <pb n="1" facs="tcp:179234:1"/>
+            <head>
+               <hi>A Well-Reſolved Man; OR,</hi> Good Reſolutions, &amp; Good Endeavour</head>
+            <div n="1" type="part">
+               <head>PSAL. 75.9, 10. THE FIRST PART.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>SECT.</hi> I.</head>
+                  <p>THE God of all happineſs having been pleaſed to often give Divine and Heavenly Joys to many of his people; and (amongſt the many) to ſmile ſome ſhines thereof to one of his [though unworthy] ſervants<g ref="char:punc">▪</g> did thereby the rather move me to ſtudy and endeavour (aſwel as <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> could) to declare the like Divine Joys and happineſs to other. And he did by ſome occaſions alſo ſet me on work to a little ſhew the evil follyneſs of ob<g ref="char:EOLhyphen"/>ſtinate, Popiſh, and ſome kind of vitious, ſeditious, and ill-minded Enemies of Good<g ref="char:EOLhyphen"/>neſs (of which likewiſe ſome things may be more known in good time): And then had I occaſion to think that ſome mens <hi>Horns</hi> (though much ſhorter then their <hi>Combs and Ears</hi>) did deſerve a little checking, either by ſhewing, bruſhing, or de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>ding the ſame, or otherwiſe. And what Monſter-men <hi>the Wicked</hi> are, and what kind of Combs, aſwel as Horns they have; and how the illneſs thereof may be well bruſhed or checked, may [in ſome after Parts hereof] be ſhewn: and likewiſe of be<g ref="char:EOLhyphen"/>ing at the beſt ſide, and partaking of the much joys and happineſs of God's Peo<g ref="char:EOLhyphen"/>ple. And ſo it was, that (among many times) being one time ſo well buſied, [ſtu<g ref="char:EOLhyphen"/>dying and endeavouring aſwel as my weakneſs could] to chearfully declare ſome things of the much goodneſs of our God to his people, and to give ſome [both uſe<g ref="char:EOLhyphen"/>ful and pleaſing] checks, to wicked follyneſs, and ſome encouragements to bleſſed Graciouſneſs; and having God's Book before me, I (providentially) turned to the 75 <hi>Pſalm,</hi> and reading towards the end thereof as followeth:</p>
+                  <q>
+                     <p>But I will declare for ever, and ſing praiſes to the God of <hi>Iacob</hi> All the Horns of the Wicked alſo will I cut off, &amp;c.</p>
+                     <bibl>
+                        <hi>Pſal. 75.9, 10.</hi>
+                     </bibl>
+                  </q>
+                  <p>It then ſeemed to me, that no ſooner had the Kingly Prophet, in much zealous-wiſe ſet himſelf to <hi>well declare abroad the much goodneſs of our God, and well-ſing his praiſes,</hi> but the <hi>Horns of the Wicked</hi> were ſet in his way: Right well did he there<g ref="char:EOLhyphen"/>fore <hi>reſolve to all-cut them off, to unborn</hi> [unpower] <hi>ſuch wicked men;</hi> aſwel a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> alſo
+<pb n="2" facs="tcp:179234:2" rendition="simple:additions"/>
+                     <hi>to encourage the Righteous,</hi> as it followeth, <hi>ver.</hi> 10. Then did I from the ſame 9th and 10th verſes, collect theſe four following general Obſervations, as the Heads of, (or pertaining to) the intended enſuing Diſcourſe.</p>
+                  <p>Firſt, (ſince the Divine-ſpirited <hi>Pſalmiſt,</hi> was ſo very well-reſolved <hi>to declare for ever and ſing praiſes to the God of</hi> Jacob, <hi>&amp;c.</hi>) that every well-reſolved man ſhould likewiſe do right well, (when, and aſwel as they may conveniently) to cheerfully, and with divine praiſes declare the much goodneſs of our God to his <hi>Jacob</hi>-like <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; yea, though if any ill-minded <hi>Eſaus,</hi> (or any of old Satan's Meſſengers) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y wicked <hi>Horn combmen,</hi> would therefore malign, oppoſe, or any way ſet Horns with Combs againſt them, <hi>Gen.</hi> 27.41. <hi>Pſal.</hi> 75.1, 4, 5. 1 <hi>Joh.</hi> 12.13, 14, 15. <hi>Rev.</hi> 2.17.</p>
+                  <p>Secondly, ſince King <hi>David</hi> was [as all good Magiſtrates ſhould be] ſo well re<g ref="char:EOLhyphen"/>ſolved to check, or <hi>cut off the horns of the wicked,</hi> ſo calling the ſame, and figura<g ref="char:EOLhyphen"/>tively meaning thereby <hi>their ill-uſed power and wrong fulneſs,</hi> we likewiſe may en<g ref="char:EOLhyphen"/>deavour to check the ill-uſedneſs thereof againſt us, and that partly by ſhewing and bluſhing <hi>their combs and long ears</hi> (ſo calling the ſame, and figuratively mean<g ref="char:EOLhyphen"/>ing thereby <hi>their pride, folly, and wickedneſs</hi>) and that to be done partly by good round confutations, and both ſerious and deriding Reprehenſions, (when good per<g ref="char:EOLhyphen"/>ſwaſions, and other good ways will not ſerve for Converſion) and chiefly by, or with <hi>the Sword of the Spirit,</hi> called <hi>the Word of God,</hi> or according thereunto, <hi>Prov.</hi> 26.3. <hi>Pſal.</hi> 52.6, 7. &amp; 59.8. &amp; 75.4, 5. &amp; 149.6. <hi>Eph.</hi> 6.17. <hi>Heb.</hi> 4.12.</p>
+                  <p>Thirdly, (ſince this ſo wel-reſolved Man, the Prophetical K. <hi>David,</hi> was
+<list>
+                        <item>(1.) A Type of Jeſus Chriſt,</item>
+                        <item>(2.) A good Magiſtrate.</item>
+                        <item>(3.) A good Prophet. And</item>
+                        <item>(4.) a good man; ſince he did ſo well reſolve, as before-mentioned), that we ſhould do very well to ſide under our Captain-General <hi>Jeſus Chriſt,</hi> as ſome of his Angel-men, againſt Satan and his, (<hi>Rev.</hi> 12.) alſo under ſuch good Magiſtrates, and with ſuch good Miniſters and People, who (<hi>David</hi>-like) do moſt <hi>love God's goodneſs and prai<g ref="char:EOLhyphen"/>ſes, and most check or Horn-cut</hi> (much obſtinate Antichriſtian and vitious) <hi>wicked men;</hi> who Comb-fully fling Horns or Harms againſt the ſame and them.</item>
+                     </list>
+And like<g ref="char:EOLhyphen"/>wiſe to ſide with ſuch who do moſt love or encourage Right, Truth, and Goodneſs.</p>
+                  <p>And ſo fourthly, with them to partake of the much exaltive happineſs of God's people, for ſo it followeth, <hi>ver.</hi> 10. <hi>But the Horns</hi> (that is, the well-uſed power and happineſs of the Righteous) <hi>ſhall be exalted;</hi> and that either partly on Earth, by knowing, and preſent enjoying as much as they can of their Divine Felicities, and Dignities in <hi>Jeſus Chriſt;</hi> and ſometimes it may be Temporal Bleſſings added, with exalted Heaven minded Enjoyment thereof; or however, may have Divine Joys, both in troubles and proſperity, and <hi>all things working for their good,</hi> either here, or eſpecially hereafter in Heaven, and of their much exalted happineſs therein for ever.</p>
+                  <p>Then did I likewiſe (<hi>from the ſame</hi> 9th <hi>and</hi> 10th <hi>verſes of</hi> Pſalm 75.) note or collect ſome more particular Obſervations, of which I may write more hereafter; but herein I intend ſome things that have ſome relation to the before-mentioned four general Obſervations [and that the rather upon ſome occaſions] and the firſt general Obſervation thereof, with ſome particular Application to partly be the ground of this firſt Part; and ſo herein to write ſome things according thereunto: Firſt, more particularly in the next Section; And ſecondly, more publiquely, and generally, in the after Section of this Part.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="1" facs="tcp:179234:2"/>
+                  <head>
+                     <hi>SECT.</hi> II.</head>
+                  <p>FIrſt, <hi>more particularly,</hi> A much well Reſolved-Man will be right willing, aſwel as he can (when conveniently he may) <hi>to chearfully declare abroad the Divine Goodneſs and praiſes of Him the God of</hi> Jacob; yea, though if any wicked Horn-Combmen would therefore malign, oppoſe, or ſet Horns with their Combs much illy againſt him. And ſo this Divine-Spirited <hi>Pſalmiſt,</hi> in many other of his Pſalms, would often particularly tell what GOD had done for Him, and that ſometimes notwithſtanding many ill Enemies; and ſo what particular Bleſſings, Protections, Deliverances, Joys, and Felicities, his GOD had given unto him. And the like we read of many other Saints in all Ages; of which I may elſewhere give many Inſtancies. But here I would occaſionally write a few Words of one with whom I am very well acquainted, and know or believe him to be a much Well-Reſolved, and Well-endeavou<g ref="char:EOLhyphen"/>ring Man.</p>
+                  <p>And here I might, to the Divine Praiſe, <hi>particularly</hi> declare of many bleſ<g ref="char:EOLhyphen"/>ſed and happy Experiences, and what Divine and Heaveny Joys his GOD hath ſometimes given him both in health and ſickneſs, in troubles and pro<g ref="char:EOLhyphen"/>ſperity. But now onely a little of ſome things. And ſo if he did formerly (in ſomething publiſhed) to God's Glory particularly tell (and that with a much aſſeveration for the truth thereof, and wiſhing God's Bleſſing accor<g ref="char:EOLhyphen"/>ding) how that <hi>he knew a man ſome years ago,</hi> when he was a little more then a Child, and that in a time of his much ſickneſs, who then enjoyed ſuch joyes, as he believes were very beginnings and partakings of Heaven: Such as the very Thoughts thereof hath often ſince much rejoyed him, and did much incite him to write ſome things of <hi>Divine and Heaveny happineſſe on Earth,</hi> &amp;c. And if he did ſo declare and tell the ſame onely to God's Glory, <hi>acknowledging his own altogether weakneſſe and infirmities,</hi> 2 Cor. 12. (being ready to ſo much glory in ſuch much humble acknowledgments,) as to que<g ref="char:EOLhyphen"/>ſtion whether it were better for the preſent to be in Heaven already, or here ſo well preparing for more happineſs therein, by ſuch acknowledging his own weakneſs and infirmities, that God's grace, power, and glory, may be onely manifeſted thereby, <hi>verſ.</hi> 5<g ref="char:punc">▪</g> 9, 10. And if any <hi>Divine Glo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> ſhall be occaſioned by this, or ſome other following <hi>Declarings,</hi> ſome Enemies might have a little thanks, aſwel as ſomething elſe, for the ſame, ſince to them he might ſay (with the much <hi>Heaven-joyed</hi> Apoſtle) <hi>Ye have compelled me.</hi>
+                  </p>
+                  <p>And therefore alſo he may be the better excuſed, if he were apt to think, that ſuch Divine and Heavenny Joys and Encouragements, in ſuch young<g ref="char:EOLhyphen"/>neſs and ſickneſs, aſwel as after, were a ſufficient CALL to write ſome
+<pb n="2" facs="tcp:179234:3"/>things in Divinity; yea, <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> himſelf. For <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a little talk or jeſt againſt Day or Temporal <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> (as ſome are <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> term Us) their Writing in Divinity; they may know, the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e are very many Scriptures and Reaſons for the ſame, whereof ſome they may ſee in Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Baker's</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ommendations thereof printed; and many other alſo may be given; (and the farre-fetcht Arguments to the contrary, may (if occaſion) be well derided to ſcorn) yea, inſomuch, as even the Popiſh Prieſts them<g ref="char:EOLhyphen"/>ſelves, as much as they ride the people, are yet aſhamed to deny them Wri<g ref="char:EOLhyphen"/>ting and Printing in Divinity, while onely what is not contrary to their Reli<g ref="char:EOLhyphen"/>gion; much more have good Proteſtant Miniſters thought well of any mens ſuch good Endeavours, which they know Orthodox.</p>
+                  <p>I might alſo, to the Divine Praiſe, tell how Heaven hath often ſmiled Joys and Bleſſings, upon his good Reſolutions and Endeavours, (eſpecial<g ref="char:EOLhyphen"/>ly in Writing ſome things concerning Man's Happineſs) and alſo particu<g ref="char:EOLhyphen"/>larly of many Divine Providences, Protections, and Encouragements, ſome<g ref="char:EOLhyphen"/>times notwithſtanding ill Enemies, and their being evil-ey'd againſt a Man's good Reſolutions, and of hopeful turning their wrongful Oppoſision to his good. And how, if any (with old Satan) will be ſuch ill-comb Enemies, to go on to much oppoſe him, they are not like to get much thereby, unleſſe ſome ſhewment of their Evil-Combneſs, if not alſo a little Checkment of their ill-bent Horn-neſs; though he would rather hope they will not much fling Horns againſt him; and thereby ſhew long Combs and Ears, but that miſtakes (if any be) may be well rectifyed; and Chriſtian Love, Peace, and Right, well occaſioned.</p>
+                  <p>And I might likewiſe further declare (to Divine Praiſe) that he is a Man who reſolves, lives, and would endeavour aſwel as he can, and when con<g ref="char:EOLhyphen"/>vinced of any amiſſements, would preſently reſolve (and glory in) amend<g ref="char:EOLhyphen"/>ment: A Man that hath ſo well reſolved, lived, and endeavoured, that he doth much proteſt (deſiring alſo the bleſſing of the Almighty, according to the truth of this Proteſtation) that he doth ſeriouſly wiſh that all his faults might be written in the face and ſight of the Sun and World, to be read of all men, upon condition, that his good Intents, Endeavours, and Reſolutions, (by Divine Bleſſing) were therewith alſo written, read, and ſeen of all men. And likewiſe how he is a Man that hath ſo well lived, and well-endeavoured, as he hopes and believes that his very Enemies (unleſs there be any as Kna<g ref="char:EOLhyphen"/>viſh and Impudent as old Satan) they will readily acknowledge, or how<g ref="char:EOLhyphen"/>ever well think that he hath been, and is a much wel-endeavouring, and <hi>a Well-reſolved Man.</hi>
+                  </p>
+                  <p>And again, I might likewiſe (upon occaſion) tell, how when heretofore a diſtemper of Natural Melancholy ſometimes came upon him (much at new Wakings) the thoughts of ſome Divine and Heaven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Joys have quick<g ref="char:EOLhyphen"/>ly diſpelled the ſame. And ſo when Enemies have ſometimes occaſioned in him a little juſt indignation; yet upon remembring ſuch Divine Joys, his Spirits have been quickly compoſed again, and ſetled in quiet rejoying; and
+<pb n="3" facs="tcp:179234:3"/>then though, according to our Saviours counſel (<hi>Luke</hi> 17, 3.) <hi>when Enemies treſpaſs againſt him,</hi> (yea ſtrangely perſecute him) <hi>he may well rebuke them;</hi> tyet doth his often lightſome Spirit incline to do it by ſome lively, mirthy, yet round Bruſhes, Girds, and Deriſions, father then by ſuch plainer cudgel<g ref="char:EOLhyphen"/>ling Rebukes, and more then Rebukes as ſome deſerve) <hi>yet if they repent</hi> (as it followeth) <hi>ver.</hi> 3, 4. and ſo amend, he would much freely <hi>forgive them;</hi> yea, doth ſo, even before they repent and amend, and while, he rebukes them; and wiſhing the ſame, or ſomething, might occaſion their Converſions with as much Bleſſings and Happineſs, as our God will, or Heaven can give and beſtow on them. And ſo likewiſe I might tell what Divine and Hea<g ref="char:EOLhyphen"/>venny Joys he hath ſometimes had in health and proſperity; inſomuch, as ſometimes ready to forget himſelf while thinking thereof; and hath gone a good time another way then intended, before he remembred himſelf; yea, ſomtimes even in company, hath bin askt a queſtion twice, &amp; laught at be<g ref="char:EOLhyphen"/>fore he could pull down his Mind to anſwer; though he hopes not ſo unconve<g ref="char:EOLhyphen"/>niently to forget himſelf again hereafter. And alſo how ſuch Joys (while well-minding himſelf, and his convenient occaſions, as every man ſhould) have often made his Thoughts, Studies, Occaſions, Recreations, Enjoyments, and much of his life-time more pleaſant and delightſome, though yet he thinks himſelf altogether unworthy of the leaſt of any ſuch Joys and Bleſſings, and would the more therefore <hi>render praiſes to his God, the Divine Giver there<g ref="char:EOLhyphen"/>of.</hi>
+                  </p>
+                  <p>And alſo further (the rather if, or ſince Enemies occaſion it) I might well-tell or ſuppoſe that he is a man whom GOD hath ſo well bleſt, that how much-ſoever the ſtrong and high-graced (whether low or high placed men) are beyond him in Joys and Happineſs; yet, that he, while he may with Di<g ref="char:EOLhyphen"/>vine Bleſſing quietly ſerve his God with ſuch a ſufficiency as he hath given him, if ill men do not manifeſtly much wrong him (as they are not like to do it very eaſily without Comb-bruſhing, if they would) yea, or if Men and De<g ref="char:EOLhyphen"/>vils oppoſe to hinder, yet while he may continue to enjoy his GOD, and ſtudy to ſerve Him and His People, would be ready to vye Happineſs even on Earth, with the moſt Purſe-proud, Comb-proud, ungracious Man living; and that <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſo as not onely being ready to both pitty and laugh at him, till he ſhake off his Wicked-Combneſs; but alſo hoping to out-vye him ſo far, as ſome Joys, being Partakings or Beginnings of Heaven, are beyond theſe of Earth, or meer-Man (much more of the commonly diſtempered ill-paſſio<g ref="char:EOLhyphen"/>nated wicked Man) beſides the infuſions of a kind of Heavened Joy, that an Heavenny-mind adds in, or with both Troubles and Proſperity, and ſo as raiſing all terrene good and happineſs, to a much better and higher Enjoy<g ref="char:EOLhyphen"/>ment<g ref="char:punc">▪</g> (<hi>Prov.</hi> 16.8. &amp; 37.6) and beſides (in whatſoever condition) the aſ<g ref="char:EOLhyphen"/>ſurance of all working to his good, eſpecially to the encreaſe of his everla<g ref="char:EOLhyphen"/>ſting happineſs, 1 <hi>Pet.</hi> 1.8. <hi>Rom.</hi> 8.28. 2 <hi>Cor.</hi> 4.17. &amp; 7.4. &amp; 8.2.</p>
+                  <pb n="5" facs="tcp:179234:4"/>
+                  <p>In ſumme, If I ſhould ſuppoſe, and <hi>particularly declare,</hi> the many Divine Experiences, Providences, Protections, Directions, Bleſſings, Joys, and Encou<g ref="char:EOLhyphen"/>ragements, which he hath had in health and in ſickneſs; and among ſome good friends, and notwithſtanding ſome ill Enemies, and ſo both in Trou<g ref="char:EOLhyphen"/>bles and Proſperity; and if I ſhould ſo declare, that all men might fully know the ſame, though if evil-ey'd hinder-good men, would very much vex thereat, yet would the good or beſt men, all preſently wel-know, or be ready to ſay-out that he (bleſſed man) though much unworthy, had, and hath yet very much reaſon <hi>(with the Pſalmiſt, and other well-reſolved men)</hi> to particu<g ref="char:EOLhyphen"/>larly <hi>declare the much goodneſſe of our</hi> GOD <hi>to his praiſe, &amp;c.</hi> Verſe 9</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="5" facs="tcp:179234:4"/>
+                  <head>
+                     <hi>SECT.</hi> III.</head>
+                  <p>SEcondly, more publiquely alſo, will a much well reſolved man be willing (when occaſion) to ſpeak, or any way declare abroad Gods goodneſſe and praiſes, yea tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh if any evil ey'd ill-minded men would therefore ſhew horns with Combs againſt him, (<hi>verſ.</hi> 9. &amp;c.) And ſo like this well reſolv<g ref="char:EOLhyphen"/>ed Pſalmiſt profeſſes alſo in <hi>Pſal.</hi> 40.3, 5, 7, 8, 9, 10, and in ſeverall other of his praisfull <hi>Pſalmes.</hi> And likewiſe many other much well-reſolved Saints in all Ages have been ſo willing to publiquely well imploy their Talents, either by acting, ſpeaking, ſtudying, writing, or the like, when occaſion, though often-times ſome ill minded men have therefore much detracted from, and oppoſed the. And ſo likewiſe in theſe and times to come, will many ſuch well-reſolved men be cheerefully willing to do any good (when conve<g ref="char:EOLhyphen"/>niently they may) and to <hi>let their light ſhine to their Heavenly Fathers glory,</hi> though Owle-ſighted, hate-light men, or evil-ey'd hinder-light men, or ſuch whoſe hornes or Combs hang in their light, would therefore much envy maligne, gainſay, or ill oppoſe them, <hi>Math.</hi> 5.15, 16. and 25.17, 18.22, 23<g ref="char:punc">▪</g> 
+                     <hi>Mark.</hi> 4.21. <hi>Pſal.</hi> 75.1, 4, 5, 9, 10.</p>
+                  <p>But here a few words of ſome application. Good men I hope will think right well of my good endeavours and reſolutions in this publique im<g ref="char:EOLhyphen"/>preſſing way; I hopeing to do ſome good thereby how little ſoever, and having more then ordinary engagements and occaſions thereunto; and the rather while I do not cenſure or blame theſe, who though much able do yet think it more diſcretion to forbeare in this Impreſſing way; while yet we may well blame, check or bruſh ſome ill-detracture, ſneaking, evil-ev'd, baſe-ſpirited, hinderers and oppoſers of goodneſſe. But of this I may (if occaſi<g ref="char:EOLhyphen"/>on) write ſome things elſewhere; and how detracters and perſecuters are the worſt of men, and moſt <hi>Father-Satan-like,</hi> and of their baſe and rediculous humours; and (among other things) how they deſerve to be crowned (in<g ref="char:EOLhyphen"/>ſtead of Lawrell) with a Coronet of two bigg Eares on a Knaves cap with a Coxcomb and bell.</p>
+                  <p>And now to come to what I cheefely intend in this Section. I being wil<g ref="char:EOLhyphen"/>ling, (for want of Tallants) to bring a few Mites into the publique Treaſury. I deſire upon occaſion to give ſome very ſhort account of ſome of my intend<g ref="char:EOLhyphen"/>ed <hi>good endeavours, and reſolutions tending to a declareing of Gods goodneſſe to his praiſe, and his peoples happineſs</hi> (<hi>verſe</hi> 9.) And firſt to name one book in<g ref="char:EOLhyphen"/>tituled, <hi>A Divine Mirrour,</hi> or, <hi>The happy Man,</hi> &amp;c. Wherein a regenerate gracious man may behold much of his divine &amp; heaveny happineſs on Earth. Which book is well beg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n printed, and might have been publiſhed a good time before now, if firſt ſome intended additions, and ſince ſome occaſioned
+<pb n="3" facs="tcp:179234:5"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:179234:5"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:179234:6"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:179234:6"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:179234:7"/>diverſions had not hindered the ſame: By which it may be well known <hi>to our Gods praiſe,</hi> that a much gracious man can or may <hi>often much rejoyce in many ſeverall reſpects;</hi> yea often times though if ill-minded men would comely ſhew <hi>their hornes againſt him.</hi> And ſo how he can rejoyce much more then the ungracious men, even in externall and morall felicities, though eſpecially indivine and heavenny happineſſe. And well is it, if therein, as likewiſe in ſome other intended Treatiſes, I hope to ſee farr better my former litte and weak (though gracious and vertuous) endeavours, and ſo to declare ſuch divine and heavenny happineſſe (however yet weakly) as to g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve ſome occaſion to hope as well as wiſh, of ſome converſation amongſt Angells; and of learning ſome divinity in Heaven, and of God himſelf, <hi>Phil.</hi> 3.20. <hi>Heb.</hi> 12.22. <hi>Joh.</hi> 6.45. <hi>Pſal.</hi> 71.17.</p>
+                  <p>And to give onely here this little ſhort account of the intents of the be<g ref="char:EOLhyphen"/>fore mentioned book. Wherein by way of Character of <hi>an happy man,</hi> is or may be ſhewed (as in <hi>a Divine Mirrour</hi> to ſuch) ſeverall things of the follow<g ref="char:EOLhyphen"/>ing heads. Of Gods love to him in Jeſus Chriſt. Of his bleſſed Union in Chriſt. Of the divine Spirit in him; and much bleſſings and felicityes of all theſe. Alſo of his divine graces; his divine happy heavenny <hi>faith;</hi> And of his ſuch hope; And ſo of his divine love. Likewiſe of his Evangellicall humilliation, Repentance, and filiall feare, occaſioning much exaltation, joy, and love in God. Alſo of other his divine graces; and of his morall vir<g ref="char:EOLhyphen"/>tues ingraced and ſo raiſed to more happineſſe. Of his divine gracious and of<g ref="char:EOLhyphen"/>ten joyous, prayers, praiſeings, and other good Chriſtian exerciſes, and good endeavours and reſolutions. Of his Orthodox Religion and felicities thereof. Of his bleſſed peace as farr as he may with all men; and much love to, and Communion with the Saints. Alſo of his divine gracious courage, and of his contentment, and often divine joyes in Troubles. And how the ſame and oppoſitions do and may often turne <hi>to his good.</hi> And of his good uſe and heaven-minded enjoyment of externall happineſſe and proſperity. Of his much happineſſe in God. And ſo in and with him of his divine and hea<g ref="char:EOLhyphen"/>venny life, welfare, Wiſdome, Power, Amiableneſſe, Fre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nds, Riches, Ho<g ref="char:EOLhyphen"/>nors, pleaſures, and how his God gives, is, and will be ſuch happineſſe to him. Alſo of his divine joyes; and how the ſame are alwayes habituall, and often actuall, free, ready, quick inſtant, lively, much Angelliſeing his ſoul, and thereby adding to all his other felicities. And how ſomtimes may be unex<g ref="char:EOLhyphen"/>preſſable, and how, ſuperterrene, ſuper-humane, divine and heavenny. Of his entertayning, enjoying, and encreaſing ſuch divine and heavenly in<g ref="char:EOLhyphen"/>fuſions. And of his ſoul, often eying and having converſation in Heaven, and enjoying in ſome degrees the felicities thereof already. And of his di<g ref="char:EOLhyphen"/>vine Communion and fruition of God. And ſo how his ſoul may be more ſublimed to an heavenny temper, often entertayning and enjoying <hi>partakings</hi> of the divine ſelf and Heaven within him. Alſo how ſuch divine and hea<g ref="char:EOLhyphen"/>venny graces, joyes, and felicityes are in ſome reſpects communicative, to ſuch as are capable thereof, And how if all men would ſeriouſly endeavour to be ſuch as he, we might behold a more Angellicall Heavenny age on earth, to the encreaſe of the everlaſting happineſſe in Heaven, to divine glory.</p>
+                  <pb n="7" facs="tcp:179234:7"/>
+                  <p>And I have declared alſo how I intended to write ſome things with divine bleſſing concerning publique good and happineſſe (and right well is it to wiſh or endeavour what (with conveniency) we may thereof, <hi>Pſal.</hi> 122.6, 7, 8, 9.) And in the former impreſſion here of ſome yeares agoe, I did give ſome account of an intended book concerning <hi>much hopefull good and happineſſe in theſe Nations,</hi> and that intermixt among and by way of ſeverall Reaſons for ſubmiſſion to Higher Powers. But having ſince above a yeare and half agoe Impreſſed ſomthing thereof called <hi>A Word in Seaſon,</hi> or <hi>A few words of</hi> 34. <hi>heads of Reaſons for ſubmiſſion to Higher Powers; And of much hopefull good and happineſſe to theſe Nations.</hi> I forbeare to Reprint the ſame in this Im<g ref="char:EOLhyphen"/>preſſion, and rather referr the Reader thereunto, intending to add the ſame or another Impreſſion thereof hereunto, next after this firſt part. And though I wiſh ſome ill-minded-men would not be ſo evil ey'd againſt the ſame and other good Reſolutions, as to occaſion much wrongs, deceits, and hinde<g ref="char:EOLhyphen"/>rances, and among other to occaſion that in long time I could not or cannot ſell, have, or diſpoſe any thing of a meſſuage, and Lands, made over to me by my late brother, for ſome money to him, and much engaged for him, ſo as neither I, nor the Creditors could yet be paid thereof, nor his Chil<g ref="char:EOLhyphen"/>dren have the Remainder as intended and offered; and alſo occaſion ſuch falſeneſſe in truſt, that I could not, or cannot ſell, have, or diſpoſe any of a<g ref="char:EOLhyphen"/>bout fourſcore and ten pounds a yeare elſewhere, nor yet any (unleſſe ſo lit<g ref="char:EOLhyphen"/>little as leſſe then charges in looking for it) of whom I truſted above two thouſand pounds worth of the ſame Lands, at St. <hi>Peters,</hi> and <hi>Tilmſton;</hi> and alſo goods, or of ſome hundred pounds of my Rent received by whom truſted, or that any would often ſay or threaten I ſhould get none thereof, unleſſe I would comply not to Print Books, or it ſeemes be engaged not to Print ſuch things as ſome are evil ey'd againſt, though good Reſolutions. And I wiſh I may have no occaſion to Impreſſe a Tragicomicall Narrative of ſome wrongs, hinderances, Ill-triks, and perſecutions, and how yet, old Satan is not like to get much by ſetting on to the ſame, unleſſe ſome exalta<g ref="char:EOLhyphen"/>tion of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Comb rather then hornes; though for other enemyes I wiſh ra<g ref="char:EOLhyphen"/>ther their love and peace with ſome Rightment. But though if ſome diſcon<g ref="char:EOLhyphen"/>centented, unpeaceable, ſedicious or ill-minded men (of ſeverall Cleaks) would be ſo evil-ey'd as to ſhew their hornes (though much longer Combs thereby) againſt ſuch good endeavours and reſolutions, yet well-minded, peaceable, and gracious men will (I hope) much rejoyce and praiſe our God for ſuch much hopefull good and happineſſe, as in the following Papers in<g ref="char:EOLhyphen"/>tended to be added hereunto, may in ſome little part appeare, though eſpe<g ref="char:EOLhyphen"/>cially more plainly, when ſuch further good Reſolutions thereof are finiſhed and publiſhed.</p>
+                  <p>Againe, In the former Impreſſion hereof I did alſo mention ſome things to divine praiſe, of another intended book to be called, A Divine Kingdom in Men, or the Heavenly age on Earth Of which I had thought likewiſe to have given ſome account in another Sect on of this Impreſſion hereof. But having ſince alſo Imprinted ſomthing thereof, entituled, <hi>Exalted happi<g ref="char:EOLhyphen"/>neſſe,</hi> or, <hi>A few words concerning a Divine Kingdom, and the encreaſe thereof
+<pb n="8" facs="tcp:179234:8"/>to much happy heavenny times on earth, and to ſome degrees of Heaven within us;</hi> Intending likewiſe to add the ſame (with the other) hereunto. I referr the Reader (if he pleaſe) thereunto; hopeing that (though if ſome would be ſo evil or Owle-ey'd, ill, or narrow-minded, addle or thick-headed, as to de<g ref="char:EOLhyphen"/>tract from, little mind, or ſhew Combs againſt the ſame, yet gracious heaven-minded men will much rejoyce at ſuch much <hi>exalted happineſſe,</hi> and much cheerefully render or <hi>ſing prayſes for the ſame to him who is ſo good a God to his Jacoblike</hi> (his gracious) <hi>people,</hi> verſe 9.</p>
+                  <p>And I may alſo, if occaſion, in a ſecond part hereof, proceed to the next ge<g ref="char:EOLhyphen"/>nerall obſervation mentioned in the firſt Section, of checking the il<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>buſed<g ref="char:EOLhyphen"/>neſſe of wicked mens hornes, though by ſhewing and bruſhing their Combs and long eares and otherwiſe. And therein (among others) ſome things, if occaſion, of <hi>a Tragicomicall Narrative,</hi> and <hi>round Bruſh, or Catechiſe.</hi> And ſome things (further then in the former Impreſſion) of an intended Tragi<g ref="char:EOLhyphen"/>comicall book wherein may be ſhewed how that <hi>old Satan hath figuratively</hi> a Comb as well as Hornes, and <hi>his Servants both Combs and long Eares.</hi> And how they may be well checked, derided, bruſhed, ordered, <hi>&amp;c.</hi> And divine gracious and vertuous men rejoyce and enjoy a much happy age.</p>
+                  <p>I may alſo proceed, if God pleaſe, to his praiſe, to a third and fourth part, concerning the third and fourth generall obſervations before mentioned of being at the beſt ſide (contrary to the worſt Comb-men) and much partaking of the <hi>exaltive happineſſe of Gods people;</hi> according to the end of <hi>Pſal.</hi> 75. <hi>verſ.</hi> 10. (Of which ſome things may be likewiſe perceived in part, by the two following little diſcourſes, (eſpecially that of <hi>exalted happineſs,</hi> &amp;c: in<g ref="char:EOLhyphen"/>tended to be added hereunto.) And ſo likewiſe of ſome more particular ob<g ref="char:EOLhyphen"/>ſervations; and among other, of gracious mens exaltive dignities and feli<g ref="char:EOLhyphen"/>cities in Jeſus Chriſt, in our God, and Heaven-Kingdome. And of much knowing and enjoying ſuch divine and Heavenny happineſſe, and thereby alſo more Heaven-minded enjoyment of temporall felicities. And how all things (both troubles and proſperity) <hi>may work to their good,</hi> either on earth, or eſpecially in Heaven. And of their much exalted happineſſe (in ſeve<g ref="char:EOLhyphen"/>ralls) therein. And ſo how at laſt (when the obſtinate unconverted <hi>wicked men</hi> ſhall be all <hi>horn-cutied,</hi> and Comb-ſhewn elſewhere) they that are Gods Children ſhall (to his glory) be <hi>all exalted</hi> for ever and Triumph in Heaven.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
